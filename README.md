@@ -1,6 +1,6 @@
 Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb51fc44dbeb
 
-![Безымянный](https://github.com/user-attachments/assets/87900d7d-9769-4f1a-806c-3aec866d8050)
+![0](https://github.com/user-attachments/assets/04ce55cc-42b6-426b-8713-0199009ac501)
 
 ★ Inventory System :
 - Auto sorting of items (Solved)
