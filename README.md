@@ -9,3 +9,4 @@ Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb
 - Saving and loading items (Solved)
 - Saving a position in inventory (Solved)
 - Defining your slot after loading (Solved)
+-
