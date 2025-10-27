@@ -1,4 +1,4 @@
-Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb51fc44dbeb
+Inventory system for your games (GML) 
 
 ![0](https://github.com/user-attachments/assets/04ce55cc-42b6-426b-8713-0199009ac501)
 
@@ -9,3 +9,5 @@ Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb
 - Saving and loading items (Solved)
 - Saving a position in inventory (Solved)
 - Defining your slot after loading (Solved)
+
+Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb51fc44dbeb
