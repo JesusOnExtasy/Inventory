@@ -1,4 +1,4 @@
-Inventory system for your games (GML) 
+Ready Inventory system for you'r Games (GML) + My inventory design and all icons
 
 ![0](https://github.com/user-attachments/assets/04ce55cc-42b6-426b-8713-0199009ac501)
 
