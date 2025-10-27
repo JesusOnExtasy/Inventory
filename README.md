@@ -10,4 +10,4 @@ Ready Inventory system for you'r Games (GML) + My inventory design and all icons
 - Saving a position in inventory (Solved)
 - Defining your slot after loading (Solved)
 
-Download Project : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb51fc44dbeb
+Download Ready Project (GMS2) : https://boosty.to/jaspercrow/posts/57a74a18-a284-4b3f-8597-bb51fc44dbeb
